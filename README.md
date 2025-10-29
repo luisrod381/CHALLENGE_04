@@ -25,7 +25,8 @@ nuevo esta basado en eventos y el mapeo de teclas a sus acciones correspondiente
 
 2. Gif usando todos los scripts de movement ya hechos en clase y el PlayerJump que hicimos.
 
-![86615e143a1ff7a79a3805063f93ac47](https://github.com/user-attachments/assets/52064d9a-ace4-42fa-ae54-7b10d97639a3)
+![ca40666474466f7e4b383feb2f41e5ae](https://github.com/user-attachments/assets/1241e4b5-40a8-4ff0-bcc9-82dc90aa176e)
+
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e9020e2e-bf5a-4012-967a-0237455e08ce" />
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/eddb931a-b29f-452b-a61b-5c3b0ea8b17f" />
