@@ -17,3 +17,20 @@
 -----------------------------------------------------------------------------------------------------
 |Fast vertical movement   |                                                                          |
 -----------------------------------------------------------------------------------------------------
+Action Mappings
+Horizontal movement                                              A and D keys, Left and Right arrows
+Vertical movement                                                W and S keys, Up and Down arrows
+Shoot                                                            Left click mouse 
+Jump                                                             Spacebar, double jump possible
+Look                                                             Mouse, joystick
+Fast horizontal movement
+Fast vertical movement
+
+
+Usando Script PlayerJump CSharp
+![86615e143a1ff7a79a3805063f93ac47](https://github.com/user-attachments/assets/52064d9a-ace4-42fa-ae54-7b10d97639a3)
+
+
+
+Usando Visual Script PlayerJump
+![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
