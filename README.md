@@ -21,7 +21,9 @@ nuevo esta basado en eventos y el mapeo de teclas a sus acciones correspondiente
 |Fast vertical movement   |                                       Left Shift                                   |
 -----------------------------------------------------------------------------------------------------
 
-
+En nuestro sistema de Inputs para hacer el salto cada vez que el jugador presiona la Tecla de Espacio (Tecla asignada al salto) se llama el metodo de OnJump, este mantiene un record de la cantidad de 
+saltos que tiene el jugador, si es mayor que 0, le da update a una variable yValue donde cada frame se le sube al jugador la posicion en Y usando yValue*Time*deltaTime. Despues, para similar el descenso,
+se le baja la variable y el jugador empieza a perder velocidad para que descienda de manera fluida. Luego de tocar el piso se active el OnTriggerEnter que resetea la cantidad de saltos que le quedan el jugador a 2.
 
 2. Gif usando todos los scripts de movement ya hechos en clase y el PlayerJump que hicimos.
 
