@@ -24,6 +24,8 @@ Usando Script PlayerJump CSharp
 
 ![86615e143a1ff7a79a3805063f93ac47](https://github.com/user-attachments/assets/52064d9a-ace4-42fa-ae54-7b10d97639a3)
 
+<img width="1246" height="829" alt="image" src="https://github.com/user-attachments/assets/e9020e2e-bf5a-4012-967a-0237455e08ce" />
+<img width="1237" height="424" alt="image" src="https://github.com/user-attachments/assets/eddb931a-b29f-452b-a61b-5c3b0ea8b17f" />
 
 
 
