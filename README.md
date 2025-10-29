@@ -35,7 +35,7 @@ se le baja la variable y el jugador empieza a perder velocidad para que desciend
 
 
 
-2. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos.
+2. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos, y cambios al de PlayerMovement para permitir fast movement.
 
 ![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
 
