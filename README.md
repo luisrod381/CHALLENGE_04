@@ -1,5 +1,8 @@
 # CHALLENGE_04
+Durante la clase creamos unos scripts de movimientos simples usando el Unity Input System package que contrario al input system antiguo que verificaba si una tecla se habia presionado cada frame, el Sistema
+nuevo esta basado en eventos y el mapeo de teclas a sus acciones correspondientes dadas por un Input Map. Ademas, este es mucho mas portatil y modular, permitiendo diferentes tipos de Input.
 
+1. Input Matrix
 -----------------------------------------------------------------------------------------------------
 |Action Mappings          |                                                                          |
 -----------------------------------------------------------------------------------------------------
