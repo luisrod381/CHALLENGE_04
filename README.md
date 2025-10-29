@@ -24,7 +24,7 @@ nuevo esta basado en eventos y el mapeo de teclas a sus acciones correspondiente
 En nuestro sistema de Inputs para hacer el salto cada vez que el jugador presiona la Tecla de Espacio (Tecla asignada al salto) se llama el metodo de OnJump, este mantiene un record de la cantidad de 
 saltos que tiene el jugador, si es mayor que 0, le da update a una variable yValue donde cada frame se le sube al jugador la posicion en Y usando yValue*Time*deltaTime. Despues, para similar el descenso,
 se le baja la variable y el jugador empieza a perder velocidad para que descienda de manera fluida. Luego de tocar el piso se active el OnTriggerEnter que resetea la cantidad de saltos que le quedan el jugador a 2.
-En adicion, asignamos a Left Shift la accion de rapid movement, parecido a un dash. Esto permite al jugador hacer un Sprint al presionar la Tecla.
+En adicion, asignamos a Left Shift la accion de rapid movement, parecido a un dash. Esto permite al jugador hacer un Sprint al presionar la Tecla y hasta sortarla.
 
 2. Gif usando todos los scripts de movement ya hechos en clase y el PlayerJump que hicimos y cambios al de PlayerMovement para permitir fast movement.
 
