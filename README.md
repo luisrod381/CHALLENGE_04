@@ -30,14 +30,16 @@ En adicion, asignamos a Left Shift la accion de rapid movement, parecido a un da
 
 ![ca40666474466f7e4b383feb2f41e5ae](https://github.com/user-attachments/assets/1241e4b5-40a8-4ff0-bcc9-82dc90aa176e)
 
+CSharp script de PlayerJump.
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e9020e2e-bf5a-4012-967a-0237455e08ce" />
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/eddb931a-b29f-452b-a61b-5c3b0ea8b17f" />
 
 
+3. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos.
+
 Este gif es lo mismo que el pasado, solo demostrando el player usando los visual scripts en vez de los scripts regulares de CSharp, usamos ya los que hemos hecho en clase y el que nosotros añadimos de PlayerJump.
 Al crear los visual scripts, seguimos la lógica de los scripts originales, conectando todos los pasos por orden en el visual script, y funcionan de practicamente la misma manera.
-
-3. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos.
 
 ![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
 
