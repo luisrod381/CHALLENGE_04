@@ -25,7 +25,7 @@ En nuestro sistema de Inputs para hacer el salto cada vez que el jugador presion
 saltos que tiene el jugador, si es mayor que 0, le da update a una variable yValue donde cada frame se le sube al jugador la posicion en Y usando yValue*Time*deltaTime. Despues, para similar el descenso,
 se le baja la variable y el jugador empieza a perder velocidad para que descienda de manera fluida. Luego de tocar el piso se active el OnTriggerEnter que resetea la cantidad de saltos que le quedan el jugador a 2.
 
-2. Gif usando todos los scripts de movement ya hechos en clase y el PlayerJump que hicimos.
+2. Gif usando todos los scripts de movement ya hechos en clase y el PlayerJump que hicimos y cambios al de PlayerMovement para permitir fast movement.
 
 ![ca40666474466f7e4b383feb2f41e5ae](https://github.com/user-attachments/assets/1241e4b5-40a8-4ff0-bcc9-82dc90aa176e)
 
@@ -35,7 +35,7 @@ se le baja la variable y el jugador empieza a perder velocidad para que desciend
 
 
 
-2. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos, y cambios al de PlayerMovement para permitir fast movement.
+2. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos.
 
 ![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
 
