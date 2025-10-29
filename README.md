@@ -30,7 +30,7 @@ En adicion, asignamos a Left Shift la accion de rapid movement, parecido a un da
 
 ![ca40666474466f7e4b383feb2f41e5ae](https://github.com/user-attachments/assets/1241e4b5-40a8-4ff0-bcc9-82dc90aa176e)
 
-
+<img width="617" height="375" alt="image" src="https://github.com/user-attachments/assets/b2fd5af9-eada-4cd9-b25b-db3601e983e5" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e9020e2e-bf5a-4012-967a-0237455e08ce" />
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/eddb931a-b29f-452b-a61b-5c3b0ea8b17f" />
 
