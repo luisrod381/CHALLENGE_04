@@ -23,7 +23,7 @@ nuevo esta basado en eventos y el mapeo de teclas a sus acciones correspondiente
 
 
 
-Usando Script PlayerJump CSharp
+2. Gif usando todos los scripts de movement ya hechos en clase y el PlayerJump que hicimos.
 
 ![86615e143a1ff7a79a3805063f93ac47](https://github.com/user-attachments/assets/52064d9a-ace4-42fa-ae54-7b10d97639a3)
 
@@ -32,7 +32,7 @@ Usando Script PlayerJump CSharp
 
 
 
-Usando Visual Script PlayerJump
+2. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos.
 
 ![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
 
