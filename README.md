@@ -35,7 +35,7 @@ En adicion, asignamos a Left Shift la accion de rapid movement, parecido a un da
 
 
 Este gif es lo mismo que el pasado, solo demostrando el player usando los visual scripts en vez de los scripts regulares de CSharp, usamos ya los que hemos hecho en clase y el que nosotros añadimos de PlayerJump.
-Al crear los visual scripts, seguimos la lógica de los scripts originales, conectando todos los pasos por orden en el visual script. Como visto en los vídeos, podemos ver que, efectivamente, son equivalentes.
+Al crear los visual scripts, seguimos la lógica de los scripts originales, conectando todos los pasos por orden en el visual script, y funcionan de practicamente la misma manera.
 
 3. Gif usando todos los visual scripts de movement ya hechos en clase y el visual script de PlayerJump que hicimos.
 
