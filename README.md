@@ -1,11 +1,19 @@
 # CHALLENGE_04
 
-Action Mappings
-Horizontal movement                                              A and D keys, Left and Right arrows
-Vertical movement                                                W and S keys, Up and Down arrows
-Shoot                                                            Left click mouse 
-Jump                                                             Spacebar, double jump possible
-Look                                                             Mouse, joystick
-Fast horizontal movement
-Fast vertical movement
-![86615e143a1ff7a79a3805063f93ac47](https://github.com/user-attachments/assets/52064d9a-ace4-42fa-ae54-7b10d97639a3)
+-----------------------------------------------------------------------------------------------------
+|Action Mappings          |                                                                          |
+-----------------------------------------------------------------------------------------------------
+|Horizontal movement      |                                       A and D keys, Left and Right arrows|
+-----------------------------------------------------------------------------------------------------
+|Vertical movement        |                                       W and S keys, Up and Down arrows   |
+-----------------------------------------------------------------------------------------------------
+|Shoot                    |                                       Left click mouse                   |
+-----------------------------------------------------------------------------------------------------
+|Jump                     |                                       Spacebar, double jump possible     |
+-----------------------------------------------------------------------------------------------------
+|Look                     |                                       Mouse, joystick                    |
+-----------------------------------------------------------------------------------------------------
+|Fast horizontal movement |                                                                          |
+-----------------------------------------------------------------------------------------------------
+|Fast vertical movement   |                                                                          |
+-----------------------------------------------------------------------------------------------------
