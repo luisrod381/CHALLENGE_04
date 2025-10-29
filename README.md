@@ -41,5 +41,6 @@ Este gif es lo mismo que el pasado, solo demostrando el player usando los visual
 
 ![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
 
+Al crear los visual scripts, seguimos la lógica de los scripts originales, conectando todos los pasos por orden en el visual script. Como visto en los vídeos, podemos ver que, efectivamente, son equivalentes. 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/64a5b955-4529-44a9-a9ee-f0349fbbd3b4" />
 <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9624902a-9b68-4aad-b1b6-cd927ff216a0" />
