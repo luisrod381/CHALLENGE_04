@@ -30,7 +30,6 @@ En adicion, asignamos a Left Shift la accion de rapid movement, parecido a un da
 
 ![ca40666474466f7e4b383feb2f41e5ae](https://github.com/user-attachments/assets/1241e4b5-40a8-4ff0-bcc9-82dc90aa176e)
 
-<img width="617" height="375" alt="image" src="https://github.com/user-attachments/assets/b2fd5af9-eada-4cd9-b25b-db3601e983e5" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e9020e2e-bf5a-4012-967a-0237455e08ce" />
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/eddb931a-b29f-452b-a61b-5c3b0ea8b17f" />
 
@@ -41,5 +40,6 @@ Este gif es lo mismo que el pasado, solo demostrando el player usando los visual
 
 ![b479755209b51fbfa0c0b1534bc7c8e5](https://github.com/user-attachments/assets/82c9b230-73b3-4766-beb5-e75bda6eb211)
 
+<img width="617" height="375" alt="image" src="https://github.com/user-attachments/assets/aff59c8b-13b1-441e-8fc4-85279482e34d" />
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/64a5b955-4529-44a9-a9ee-f0349fbbd3b4" />
 <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9624902a-9b68-4aad-b1b6-cd927ff216a0" />
